@@ -1,0 +1,14 @@
+.h1 {
+    min-height: 30px;
+    width: 10px;
+}
+
+.h2 {
+    width: 0px;
+    height: auto;
+}
+
+.h3 {
+    width: 0px;
+    height: auto;
+}
